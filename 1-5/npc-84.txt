@@ -1,0 +1,16 @@
+gfxoffsety=12
+gfxwidth=46
+gfxheight=44
+width=46
+height=44
+playerblocktop=0
+npcblocktop=0
+jumphurt=0
+nofireball=0
+nogravity=1
+noiceball=1
+frames=2
+framestyle=1
+nohammer=0
+noshell=0
+name="Mini Kurosu"

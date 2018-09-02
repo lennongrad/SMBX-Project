@@ -1,0 +1,7 @@
+frames=1
+framestyle=1
+width=58
+gfxwidth=58
+gfxheight=26
+height=26
+name="Golden Sword"

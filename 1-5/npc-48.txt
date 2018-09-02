@@ -1,0 +1,13 @@
+gfxwidth=68
+gfxheight=54
+width=68
+height=54
+health=8
+jumphurt=0
+speed=1
+cliffturn=1
+noyoshi=1
+nofireball=1
+noiceball=1
+frames=2
+framestyle=1

@@ -1,0 +1,7 @@
+gfxwidth=38
+gfxheight=40
+width=34
+height=36
+playerblock=1
+nohurt=1
+cliffturn=1

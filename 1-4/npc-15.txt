@@ -1,0 +1,5 @@
+gfxoffsety=6
+health=19
+speed=0.5
+frames=2
+framespeed=16
